@@ -85,9 +85,9 @@
 * 根据已有的经验外推的能力
     * 爬楼梯
         * [面试题 08.11. 硬币](https%3A//leetcode-cn.com/problems/coin-lcci/)
-        *[统计「优美子数组」](https://leetcode-cn.com/problems/count-number-of-nice-subarrays)
+        * [统计「优美子数组」](https://leetcode-cn.com/problems/count-number-of-nice-subarrays)
     * 两数之和
-    	* [总持续时间可被 60 整除的歌曲](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)
+    	* [总持续时间可被 60 整除的歌曲](https://leetcode-cn.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)
     * 考察逐步解决问题的能力
         *  [计数质数](https://leetcode-cn.com/problems/count-primes/)
         *  [数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)
