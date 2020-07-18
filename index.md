@@ -15,24 +15,24 @@
 		* C++
 * 缩进
 * 注释
-	  * file comment at head
-		  * TO DO
-		  * parameter specification, function header
-		  * type hint
+	* file comment at head
+		* TO DO
+		* parameter specification, function header
+		* type hint
 * 测试习惯
-	  * unit test
+	* unit test
 		* do test cases in mind
-	  * edge case test
+	* edge case test
 		* stack overflow
 		* out of range situation
-	  * negative case test
+  	* negative case test
 		* invalid inputs
 * Error Handling
-	  * Use Return Value
-	  * Use Global Variable
-	  * Throw Error
+	* Use Return Value
+  	* Use Global Variable
+  	* Throw Error
 	* Robustness
-  * [Defensive Programing](https://zhuanlan.zhihu.com/p/19959873)
+* [Defensive Programing](https://zhuanlan.zhihu.com/p/19959873)
 
 ##### Coding Style 参考
 
@@ -63,6 +63,11 @@
 	3. 思维能力
 		* [《指导生活的算法》](https://book.douban.com/subject/26783732/)
 
-### 考察思路的题目
 ### 考察实现的题目
+### 考察思路的题目
+
+
+
+
+
 
