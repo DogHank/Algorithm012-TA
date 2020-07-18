@@ -9,7 +9,7 @@
 
 * 变量命名 
 	* “计算机科学两大难题” 
-	  * Camel Style Naming
+	  * camelStyle
 		* Python, Java
 	  * snake\_case
 		* C++
